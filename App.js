@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   writeTaskWrapper: {
     position: 'absolute',
     bottom: 60,
-    width: '50%',
+    width: '100%',
     flexDirection: 'row',
     justifyContent: 'space-around',
     alignItems: 'center'
